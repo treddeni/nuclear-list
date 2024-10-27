@@ -12,13 +12,16 @@ A list of various nuclear startups and established companies.  PRs with addition
 | [Black Mesa](https://www.bmaf.us/) | Building portable fission generators |
 | [Blue Energy](https://www.blueenergy.co/) | Building offshore small light water reactors using shipyards |
 | [Boston Atomics](https://www.bostonatomics.com/) | Building high temperature Helium cooled reactors using TRISO fuel | Boston, MA |
+| [Core Power](https://www.corepower.energy/nuclear-technologies/) | Building molten salt reactors and heat pipe reactors | London, UK |
 | [Dual Energy](https://dual-fluid.com/) | Building a liquid lead cooled reactor | Germany; Vancouver |
 | [Flibe Energy](https://flibe.com/) | Building a Lithium Flouride Thorium Reactor | Huntsville, AL |
 | [Framatome](https://www.framatome.com/) | Designs, builds, and operates nuclear fission power plants | Paris, France |
 | [General Electric Hitachi](https://www.gevernova.com/nuclear) | Builds large scale boiling water reactors (1500MWe) as well as small modular BWRs (300MWe) |
+| [Holtec International](https://holtecinternational.com/products-and-services/smr/) | Building 300MWe LWR SMRs. Restarting decommisioned reactors. |
 | [Kairos Power](https://kairospower.com/) | Building a 140MWe Flouride salt coolead high temperature reactor using TRISO fuel | San Francisco, CA; Albuquerque, NM |
 | [Last Energy](https://www.lastenergy.com/) | Building 20MWe PWR SMRs.  Focused on manufacturability. | Washington, DC |
 | [Moltex](https://www.moltexenergy.com/) | Building 60MW molten salt SMRs | St. John, Canada; UK; Wilmington, DE |
+| [Nano Nuclear](https://nanonuclearenergy.com/) | Building 1-20MWe portable microreactors | New York, NY |
 | [Newcleo](https://www.newcleo.com/) | Building a Gen IV lead cooled fast reactor using MOV fuel | London, UK |
 | [NuScale Power](https://www.nuscalepower.com/) | Building 77MWe LWR SMRs | Portland, OR |
 | [Oklo](https://oklo.com/) | Building a liquid-metal-cooled, metal-fueled fast reactor. | Santa Clara, CA |
