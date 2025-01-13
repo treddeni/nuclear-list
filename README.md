@@ -7,6 +7,7 @@ A list of various nuclear startups and established companies.  PRs with addition
 | Name | Description | Location |
 | :--------- | :--------- | :--------- |
 | [Aalo](https://www.aalo.com/) | Building a sodium cooled reactor fashioned after INL's MARVEL reactor | Austin, TX |
+| [Alva Energy](https://alvaenergy.io/) | Working on improving the deployment process for PWRs. | New York, NY |
 | [Antares Industries](https://www.antaresindustries.com/) | Building microreactors for military applications | Los Angeles, CA |
 | [Atomic Alchemy](https://www.atomicalchemy.us/) | Building a reactor to create radioisotopes for medical, research, exploration, and industrial use | Idaho Falls, ID |
 | [Black Mesa](https://www.bmaf.us/) | Building portable fission generators |
@@ -20,6 +21,7 @@ A list of various nuclear startups and established companies.  PRs with addition
 | [Holtec International](https://holtecinternational.com/products-and-services/smr/) | Building 300MWe LWR SMRs. Restarting decommisioned reactors. |
 | [Kairos Power](https://kairospower.com/) | Building a 140MWe Flouride salt coolead high temperature reactor using TRISO fuel | San Francisco, CA; Albuquerque, NM |
 | [Last Energy](https://www.lastenergy.com/) | Building 20MWe PWR SMRs.  Focused on manufacturability. | Washington, DC |
+| [Lightbridge](https://www.ltbridge.com/) | Building metallic fuel for PWRs. | Reston, VA |
 | [Moltex](https://www.moltexenergy.com/) | Building 60MW molten salt SMRs | St. John, Canada; UK; Wilmington, DE |
 | [Nano Nuclear](https://nanonuclearenergy.com/) | Building 1-20MWe portable microreactors | New York, NY |
 | [Newcleo](https://www.newcleo.com/) | Building a Gen IV lead cooled fast reactor using MOV fuel | London, UK |
