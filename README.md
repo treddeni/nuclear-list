@@ -19,6 +19,7 @@ A list of various nuclear startups and established companies.  PRs with addition
 | [Flibe Energy](https://flibe.com/) | Working on a Lithium Flouride Thorium Reactor | Huntsville, AL |
 | [Framatome](https://www.framatome.com/) | Designs, builds, and operates nuclear fission power plants | Paris, France |
 | [General Electric Hitachi](https://www.gevernova.com/nuclear) | Builds large scale boiling water reactors (1500MWe) as well as small modular BWRs (300MWe) |
+| [Hadron Energy](https://www.hadronenergy.com/) | Working on a 10 MWe LWR | San Francisco, CA; NYC |
 | [Holtec International](https://holtecinternational.com/products-and-services/smr/) | Working on 300MWe LWR SMRs. Restarting decommisioned reactors. |
 | [Kairos Power](https://kairospower.com/) | Working on a 140MWe Flouride salt coolead high temperature reactor using TRISO fuel | San Francisco, CA; Albuquerque, NM |
 | [Last Energy](https://www.lastenergy.com/) | Working on 20MWe PWR SMRs.  Focused on manufacturability. | Washington, DC |
