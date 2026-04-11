@@ -15,6 +15,7 @@ A list of various nuclear startups and established companies.  PRs with addition
 | [Boston Atomics](https://www.bostonatomics.com/) | Working on high temperature Helium cooled reactors using TRISO fuel | Boston, MA |
 | [California Thermodynamics](https://x.com/CalThermo) | Working on an aqueous homogeneous 110kWt breeder micro reactor | Santa Cruz, CA |
 | [Core Power](https://www.corepower.energy/nuclear-technologies/) | Working on molten salt reactors and heat pipe reactors | London, UK |
+| [Deployable Energy](https://www.deployable.energy/) | Working on a 1MW reactor with LEU fuel | Houston, TX |
 | [Dual Energy](https://dual-fluid.com/) | Working on a liquid lead cooled reactor | Germany; Vancouver |
 | [Flibe Energy](https://flibe.com/) | Working on a Lithium Flouride Thorium Reactor | Huntsville, AL |
 | [Framatome](https://www.framatome.com/) | Designs, builds, and operates nuclear fission power plants | Paris, France |
@@ -28,6 +29,7 @@ A list of various nuclear startups and established companies.  PRs with addition
 | [Nano Nuclear](https://nanonuclearenergy.com/) | Working on 1-20MWe portable microreactors | New York, NY |
 | [Newcleo](https://www.newcleo.com/) | Working a Gen IV lead cooled fast reactor using MOV fuel | London, UK |
 | [NuScale Power](https://www.nuscalepower.com/) | Working 77MWe LWR SMRs | Portland, OR |
+| [NX Atomics](https://www.nxatomics.com/) | Working on a lead cooled MSR | Indiana, US |
 | [Oklo](https://oklo.com/) | Working a liquid-metal-cooled, metal-fuel fast reactor. | Santa Clara, CA |
 | [Radiant Nuclear](https://www.radiantnuclear.com/) | Working on 1.2MWe Helium cooled microreactors that use TRISO fuel.  Designed to replace diesel generators. | Los Angeles, CA |
 | [Rolls Royce](https://www.rolls-royce-smr.com/) | Working 470MW SMRs | UK |
